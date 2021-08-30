@@ -9,4 +9,5 @@ I've fixed that little design quirk but there's a few more less glaring issues I
 A reminder of my past, I suppose.
 
 Enjoy the site, maybe learn some colour theory, and I'll hopefully seeya around!
+
 https://jababean.github.io/colourtheorysite/index.html
